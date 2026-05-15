@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rayan Ahmad Khan 👋</h1>
+<h1 align="center">Hi, I am Rayan Ahmad Khan 👋</h1>
 
 <p align="center">
   CS Student @ FAST-NUCES · AI/ML · Computer Vision · Mobile Dev
@@ -12,18 +12,18 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm a CS student at FAST-NUCES building things end-to-end — from training ML models to deploying them with real UIs. I enjoy working across the stack: AI pipelines, mobile apps, and game dev.
 
-- 🏆 **3rd place** at an international project competition at UTeM, Malaysia
-- 🎮 Unreal Engine Intern @ RetroX Interactive
-- 🧑‍🏫 Teaching Assistant for Assembly Language (COAL) @ FAST-NUCES
-- 📍 Currently looking for opportunities in **AI/ML & Software Development**
+-  **3rd place** at an international project competition at UTeM, Malaysia
+-  Unreal Engine Intern @ RetroX Interactive
+-  Teaching Assistant for Assembly Language (COAL) @ FAST-NUCES
+-  Currently looking for opportunities in **AI/ML & Software Development**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
